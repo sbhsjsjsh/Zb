@@ -1,0 +1,6 @@
+{
+  "name": "Keystone — Real Estate Agency Operating System",
+  "description": "Complete real estate agency CRM, property inventory, buyer matching, commission calculator, and B2B software sales playbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
